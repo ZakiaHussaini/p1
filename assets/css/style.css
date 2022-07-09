@@ -1,4 +1,6 @@
-. {
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@300&family=Roboto&display=swap');
+
+*{
     margin: 0;
     padding: 0;
     border: none;
@@ -7,4 +9,54 @@
 body {
     font-family: Lato, 'sans-serif';
     font-weight: 300;
+    color: #3a3a3a;
 }
+
+/* heading and logo style */
+h1, h2 {
+    font-family: Oswald, 'sans-serif';
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #252525;
+}
+
+#logo {
+    float: left;
+    font-size: 280%;
+}
+
+#logo-color {
+    color: yellowgreen;
+}
+
+#menue ,#logo {
+    line-height: 75px;
+}
+
+#menue {
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+
+#menue li {
+    list-style-type: none;
+    float: right;
+    margin-right: 30px;
+}
+
+#menue a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menue a:hover {
+    border-bottom: ;
+}
+
+
+
+
+
+
+
+
