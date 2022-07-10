@@ -146,3 +146,37 @@ hr {
     font-size: 250%;
     color: rgb(112, 156, 23);
 }
+
+/* classes section */
+
+#classes {
+    height: 600px;
+    width: 100%;
+}
+
+#classes div {
+    display: inline-block;
+}
+
+#beginner-image {
+    background: url("../images/beginner.jpg");
+    background-color: red;
+    width: 30%;
+    height: 350px;
+    float: left;
+}
+
+
+#pregnant-image {
+    width: 30%;
+    height: 350px;
+    background-color: green;
+    float: left;
+}
+
+#special-image {
+    width: 30%;
+    height: 350px;
+    background-color: yellow;
+    float: right;
+}
