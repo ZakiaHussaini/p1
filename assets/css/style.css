@@ -100,3 +100,26 @@ h1, h2 {
     
 }
 
+/* about-section */
+#about-info {
+    height: 600px;
+}
+
+#about-image {
+    padding-top: 30px;
+    width: 50%;
+    height: 600px;
+    float: left;
+    background: url("../images/white.jpg") no-repeat ;
+}
+
+#about-text {
+    padding-top: 30px;
+    background-color: yellow;
+    width: 50%;
+    float: right;
+}
+
+#about-heading {
+    width: 60
+}
