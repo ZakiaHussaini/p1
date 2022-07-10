@@ -107,7 +107,7 @@ h1, h2 {
 
 #about-image {
     padding-top: 30px;
-    width: 50%;
+    width: 45%;
     height: 600px;
     float: left;
     background: url("../images/white.jpg") no-repeat ;
@@ -115,11 +115,34 @@ h1, h2 {
 
 #about-text {
     padding-top: 30px;
-    background-color: yellow;
-    width: 50%;
+    width: 55%;
     float: right;
 }
 
-#about-heading {
-    width: 60
+.about-heading {
+    margin-top: 40px;
+    width: 90%;
+    line-height: 20px;
+    clear:both;
+    margin-bottom: 50px;
+    color: gray;
+    
+}
+
+.about-heading p {
+    font-size: 140%;
+    line-height: 30px;
+}
+
+hr {
+    border-top: 1px solid #3a3a3a;
+    margin: 5px 0;
+    width: 100%;
+}
+
+#welcome {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 250%;
+    color: rgb(112, 156, 23);
 }
