@@ -227,16 +227,64 @@ hr {
     width: 105%;
     border: 1px solid yellowgreen;
     border-radius: 5px;
-    margin: 5px;
+    margin: 7px 0;
 }
-.text-input:hover ,#message{
+
+#message:hover {
+    border: 1px solid gray;
+}
+.text-input:hover {
 border: 1px solid gray;
 }
 
 #submit-button {
     padding: 10px;
-    margin: 0 auto;
     display: block;
+    border: 1px solid yellowgreen;
+    font-size: 100%;
+    border-radius: 4px;
+   margin: 0 auto;
 }
 
+#submit-button:hover {
+    border: 1px solid gray;
+}
+/* footer section */
 
+
+footer {
+    height: 200px;
+    width: 100%;
+    background-color: yellowgreen;
+    text-align: center;
+    line-height: 30px;
+    padding: 20px;
+}
+
+footer li {
+    display: inline;
+    margin: 30px;
+} 
+
+footer a {
+    color: #252525;
+    font-size: 160%;
+    margin-top: 40px;
+}
+
+#contact-info h3 {
+    letter-spacing: 3px;
+}
+
+#contact-info {
+    margin-bottom: 30px;
+}
+
+/* media queries */
+/* for larger to medium screen size from 1200px wide and down */
+
+@media screen and (max-width: 1200px) {
+
+
+    
+}
