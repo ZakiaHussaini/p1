@@ -293,7 +293,7 @@ footer a {
     display: block;
 }
 #welcome {
-    padding: 30px 0;
+   
     margin: 0;
     font-size: 200%;
 }
@@ -309,16 +309,17 @@ footer a {
 
 #classes {
     width: 65%;
-    height: 2000px;
+    height: 2600px;
     margin: 0 auto;
 }
 
+
 #beginner-image {
-    margin-top: 30px 0;
+    margin-top: 10px 0;
 }
 #beginner-image, #pregnant-image ,#special-image {
     width: 100%;
-    height: 450px;
+    height: 700px;
     float: right;
 }
 
@@ -328,7 +329,7 @@ footer a {
 
 
 .class-info {
-top: 434px;
+top: 680px;
     
 }
 
@@ -343,7 +344,7 @@ top: 434px;
 }
 
 footer {
-    height: 800px;
+    height: 200px;
     width: 100%;
 }
 
@@ -361,9 +362,77 @@ footer {
 
     #cover-text {
       left: 30px;
+      height: 200px;
+      width: 300px;
     }
 
-    #hero-outer {
-       
+    #about-info {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+        font-size: 90%;
     }
+
+    #classes {
+        width: 90%;
+    }
+
+    #signup {
+        width: 80%;
+        height: 550px;
+    }    
+}
+
+/* for screen and size 800px */
+@media screen  and (max-width: 800px) {
+    #cover-text{
+        width: 250px;
+        height: 150px;
+        font-size: 70%;
+    }
+
+    #about-info {
+        width: 100%;
+        height: 1000px;
+    }
+
+    #about-image {
+        height: 300px;
+    }
+
+    #welcome {
+        font-size: 100%;
+        margin-top: 20px;
+    }
+
+    #about-text {
+      font-size: 100%;
+      text-align: center;
+    }
+
+    #classes {
+        width: 100%;
+        height: 1400px;
+    }
+
+    #beginner-image, #pregnant-image ,#special-image{
+        height: 300px;
+    }
+
+    .class-info {
+        top: 280px;
+    }
+
+    #beginner-image {
+       margin: 0 1px;
+    }
+
+    #signup {
+        height: 600px;
+    }
+
+    footer {
+        height: 300px;
+    }
+
 }
