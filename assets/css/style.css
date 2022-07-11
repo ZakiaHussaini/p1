@@ -151,20 +151,21 @@ hr {
 /* classes section */
 
 #classes {
-    height: 650px;
+    height: 600px;
   
 }
 
 #classes div {
     display: inline;
-    margin: 0 2px;
+    margin: 0 22px;
     box-sizing: border-box;
+    border-radius: 5px;
   
 }
 
 #beginner-image {
     background: url("../images/be.jpg") no-repeat center;
-    width: 33%;
+    width: 30%;
     height: 400px;
     float: right;
     box-sizing: border-box;
@@ -173,17 +174,69 @@ hr {
 
 
 #pregnant-image {
-    width: 33%;
-    height: 350px;
-    background-color: green;
+    width: 30%;
+    height: 400px;
     float: left;
+    background: url("../images/pregnant.jpg") no-repeat;
+    background-size: cover;
 }
 
 #special-image {
     background: url("../images/special.jpg") no-repeat;
     background-size: cover;
-    width: 33%;
+    width: 30%;
     height: 400px;
-    background-color: yellow;
     float: left;
 }
+
+.class-info {
+    top: 380px;
+    position: relative;
+    text-align: center;
+}
+
+.class-info h2 {
+    color: rgb(91, 134, 3);
+}
+
+/* signup section */
+#signup {
+    width: 40%;
+    height: 550px;
+    margin: 0 auto;
+    font-size: 110%;
+}
+
+#signup h2 {
+    text-align: center;
+    color: rgb(125, 184, 7);
+    margin-bottom: 30px;
+
+}
+
+.text-input {
+     display: block;
+     width: 100%;
+     border-radius: 5px;
+     padding: 10px;
+     margin: 10px;
+     border: 1px solid yellowgreen;
+}
+
+#message {
+    width: 105%;
+    border: 1px solid yellowgreen;
+    border-radius: 5px;
+    margin: 5px;
+}
+.text-input:hover ,#message{
+border: 1px solid gray;
+}
+
+#submit-button {
+    padding: 10px;
+    margin: 0 auto;
+    display: block;
+}
+
+
