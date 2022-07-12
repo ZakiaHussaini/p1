@@ -436,3 +436,23 @@ footer {
     }
 
 }
+
+/* ............ */
+@media screen  and (min-width: 1200px ) {
+    #classes {
+        width: 90%;
+        height: 700px;
+    }
+
+
+    #beginner-image, #pregnant-image ,#special-image {
+        width: 33%;
+        display:inline;
+       
+       
+    }
+#classes > div {
+    margin: 65px 1px;
+}
+   
+}
