@@ -11,24 +11,28 @@ __Navigation Bar__
 featured on single page, the full responsive navigation bar include links to the logo, home section, about section, classes and signup section.
 this section will allow the user to easy navigate across the website page.
 
-__the landing page image__
+__The Landing Page Image__
 the landing include an image with text overlay to provide general information about yoga with an eye catching animation to grab the user attention.
 (/assets/images/landing image.PNG)
 
-__about section__
+__About Section__
 this section allow the user to see the benifit of joining the Yoga club, as well as the benifit of Yoga overall.
 this section will encourage the user to practice Yoga that connect the body, mind and spirit through different body postures, meditation and controlled breathing.
+(/assets/images/about.PNG)
 
-__class Section__
+__Class Section__
 this section will allow the user to see which category of Yoga class and when is avaliable.
 this section will be update as these times change to keep the user up to date.
+(/assets/images/classes.PNG)
 
 __The Sign up Page__
 this page will allow the user to get signed up to Yoga club. the user will be asked to submit their fullname, email and a message.
+(/assets/images/signup.PNG)
 
 __Footer__ 
 the footer section include links to the relevant social media sites for Yoga club.
 the links will open to a new tab to allow easy navigation for the users. the footer is valuable to the user and encourage them to keep connected via social media.
+(/assets/images/footer.PNG)
 
 ### Validator Testing
 - HTML
