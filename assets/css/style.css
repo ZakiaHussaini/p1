@@ -461,3 +461,35 @@ footer {
 }
    
 }
+
+@media screen  and (max-width: 360px ) {
+#about-info {
+  
+    width: 100%;
+}
+
+#about-image {
+    height: 400px;
+}
+
+#classes {
+    width: 90%;
+    height: 1600px;
+}
+#beginner-image, #pregnant-image ,#special-image {
+    height: 400px;
+    width: 100%;
+}
+
+#signup {
+    width: 80%;
+    height: 600px;
+}
+
+footer {
+    height: 250px;
+}
+footer li{
+    margin: 15px;
+}
+}
