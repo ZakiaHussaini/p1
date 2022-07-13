@@ -18,7 +18,7 @@ __The Landing Page Image__
 
 the landing include an image with text overlay to provide general information about yoga with an eye catching animation to grab the user attention.
 
-![landing image](/assets/images/landing image.PNG)
+![landing image](/assets/images/landing.PNG)
 
 __About Section__
 
@@ -56,6 +56,9 @@ No errors were found when passing through the Official  [Nu Html Checker](https:
 - CSS 
 
 No errers found when passing through the Official [W3C CSS validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fzakiahussaini.github.io%2Fp1%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en).
+
+- Accessibility 
+![accessibility image](/assets/images/access.PNG)
 
 ## Deployment 
 
