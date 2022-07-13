@@ -51,11 +51,11 @@ the links will open to a new tab to allow easy navigation for the users. the foo
 
 - HTML
 
-No errors were found when passing through the Official  W3C HTML validator.
+No errors were found when passing through the Official  [Nu Html Checker](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fzakiahussaini.github.io%2Fp1%2Findex.html).
 
 - CSS 
 
-No errers found when passing through the Official W3C CSS validator.
+No errers found when passing through the Official [W3C CSS validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fzakiahussaini.github.io%2Fp1%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en).
 
 ## Deployment 
 
