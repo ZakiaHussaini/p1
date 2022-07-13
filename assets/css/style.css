@@ -231,7 +231,7 @@ hr {
 }
 
 #message:hover {
-    border: 1px solidgray ;
+    border: 1px solid gray ;
 }
 .text-input:hover {
 border: 1px solid gray;
